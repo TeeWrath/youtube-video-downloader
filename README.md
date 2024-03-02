@@ -5,4 +5,4 @@ A simple web app to download youtube videos with ease
 - Pytube
 
 ### Tech Stack
-- (Django)[https://www.djangoproject.com/]
+- [Django](https://www.djangoproject.com/)
